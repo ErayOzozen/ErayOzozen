@@ -1,12 +1,4 @@
 - 👋 Hi, I’m @ErayOzozen
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Html,css,js,sql,python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me erayozoz00@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me https://www.linkedin.com/in/eray-%C3%B6z%C3%B6zen-3aa3bbssa/
 
-<!---
-ErayOzozen/ErayOzozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
